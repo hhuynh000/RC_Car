@@ -1,1 +1,2 @@
-# RC_Car
+# RC_Car 
+A personal project with a teamate to build an RC car. The RC car frame is made out of aluminium and uses a four wheels skid steer system. The RC car is remotely controlled by two Arduinos and two nrf24l01 RF transceivers. I was responsible for wiring the circuits and writing the code for the RC car and remote controller. Future plan is two replace the aluminium frame with 3D printed parts and change the steering system to a rack and pinion drive system.
